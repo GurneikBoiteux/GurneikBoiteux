@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gurneik</h1>
 <h3 align="center">An Embedded Systems Engineer looking to solve real world problems</h3>
 
+- 👨‍💻 All of my projects are available at [https://my-portfolio-lake-pi-20.vercel.app](https://my-portfolio-lake-pi-20.vercel.app)
+
 - 📫 How to reach me **guboiteux@gmail.com**
 
 - ⚡ Fun fact **I love to snowboard**
