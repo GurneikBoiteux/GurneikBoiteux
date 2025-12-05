@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gurneik</h1>
 <h3 align="center">An Embedded Systems Engineer looking to solve real world problems</h3>
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
 - 📫 How to reach me **guboiteux@gmail.com**
 
 - ⚡ Fun fact **I love to snowboard**
