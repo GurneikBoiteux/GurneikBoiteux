@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Gurneik</h1>
 <h3 align="center">An Embedded Systems Engineer looking to solve real world problems</h3>
 
